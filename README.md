@@ -1,1 +1,2 @@
-# Future-All-Stars-A-Data-Driven-Approach-to-NBA-Player-Predictions-
+# Future All Stars: A Data Driven Approach to NBA Player Predictions
+This is the final project of SI 670, University of Michigan. This prject apply advanced machine learning and modeling techniques on predicting NBA All-Star players. Please refer to <> too see the full report and analysis of the project.
